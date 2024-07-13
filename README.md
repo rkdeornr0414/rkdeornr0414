@@ -2,7 +2,7 @@
 
 
 ### About Me
-<span style="font-size: 20px; color: #2c3e50;">I am a passionate developer with a keen interest in blockchain and cybersecurity. As a node operator, I have worked on projects such as <strong>Taiko</strong>, <strong>Farcaster</strong>, <strong>Nexus</strong>, <strong>Blast</strong>, <strong>Allora</strong>, <strong>0G</strong>, <strong>Aligned</strong>, <strong>Eigenlayer</strong>, <strong>Fairblock</strong>, and <strong>Union</strong>. I am also deeply interested in <strong>WEB3</strong> and <strong>smart contracts</strong>.</span>
+<span style="font-size: 20px; color: #2c3e50;">I am a passionate developer with a keen interest in blockchain and cybersecurity. As a node operator, I have worked on projects such as <strong>Taiko</strong>, <strong>Farcaster</strong>, <strong>Nexus</strong>, <strong>Blast</strong>, <strong>Allora</strong>, <strong>0G</strong>, <strong>Aligned</strong>, <strong>Eigenlayer</strong>, <strong>Fairblock</strong>, and <strong>Union</strong>.
 
 ### 📫 How to reach me
 - [![Gmail Badge](https://img.shields.io/badge/meowmeow240712@gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:meowmeow240712@gmail)](mailto:meowmeow240712@gmail)
